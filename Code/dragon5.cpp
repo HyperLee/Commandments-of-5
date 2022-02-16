@@ -3,7 +3,7 @@
 
 int main()
 {
-	//unsigned int sum = 2000000000 + 2000000000;  /* ¶W¥X int ¦s©ñ½d³ò */
+	//unsigned int sum = 2000000000 + 2000000000;  /* è¶…å‡º int å­˜æ”¾ç¯„åœ */
     //unsigned int sum = (unsigned int) (2000000000 + 2000000000);
     unsigned int sum = (unsigned int) 2000000000 + 2000000000;
     
